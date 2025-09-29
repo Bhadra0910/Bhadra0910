@@ -1,28 +1,20 @@
-# Hi there, I'm Bhadra S Kartha 👋
+# Hi,I'm Bhadra S Kartha 
+## Tech Enthusiast | Still Learning | Love Leading Teams
+I build things - AI chatbots, web apps, whatever solves the problem. Jack of all trades, always learning something new
 
-### AI Enthusiast | Team Leader | Problem Solver
-
-I'm a Computer Science Engineering student at Adi Shankara Institute of Engineering & Technology, passionate about building intelligent solutions that make a real impact. I thrive at the intersection of AI/ML, leadership, and creative problem-solving.
-
----
-
-## 🚀 What I'm Up To
-
-- 🤖 Building AI-powered applications with **NLP** and **Machine Learning**
-- 💡 Exploring **GenAI tools** and automation frameworks
-- 📊 Creating data-driven solutions with real-time analytics
-- 🎯 Leading projects from concept to deployment in record time
-- 🌱 Currently diving deeper into **Figma** and advanced **cloud integration**
+🤖 Building AI chatbots and learning NLP (still figuring out a lot of it!)
+💡 Experimenting with GenAI tools - some projects succeed, some teach me what NOT to do
+📊 Playing around with data visualization and trying to make sense of numbers
+🎯 Leading small teams and discovering that getting people aligned is harder than coding
+🌱 Teaching myself Figma through YouTube tutorials and trial-and-error
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages:** Python • C • Java • HTML
+**Tools & Platforms:** Git • VS Code • Firebase Studio • Google Stitch • Canva • Figma• Still learning lots!
 
-**Tools & Platforms:** Git • VS Code • Firebase Studio • Google Stitch • Canva • Figma
-
-**Specialties:** Natural Language Processing • Machine Learning • Cloud Integration • Data Visualization
 
 ---
 
