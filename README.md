@@ -62,7 +62,7 @@ I'm always excited to collaborate on innovative AI projects or discuss the lates
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhadraskartha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhadraskartha@gmail.com)
 
-📍 Based in Perumbavoor, Kerala | 📞 7012415290
+📍 Based in Perumbavoor, Kerala | 
 
 ---
 
