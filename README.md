@@ -3,16 +3,16 @@
 I build things - AI chatbots, web apps, whatever solves the problem. Jack of all trades, always learning something new
 
 🤖 Building AI chatbots and learning NLP (still figuring out a lot of it!)  
-💡 Experimenting with GenAI tools - some projects succeed, some teach me what NOT to do
-📊 Playing around with data visualization and trying to make sense of numbers
-🎯 Leading small teams and discovering that getting people aligned is harder than coding
+💡 Experimenting with GenAI tools - some projects succeed, some teach me what NOT to do  
+📊 Playing around with data visualization and trying to make sense of numbers  
+🎯 Leading small teams and discovering that getting people aligned is harder than coding  
 🌱 Teaching myself Figma through YouTube tutorials and trial-and-error
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** Python • C • Java • HTML
+**Languages:** Python • C • Java • HTML  
 **Tools & Platforms:** Git • VS Code • Firebase Studio • Google Stitch • Canva • Figma• Still learning lots!
 
 
@@ -20,24 +20,16 @@ I build things - AI chatbots, web apps, whatever solves the problem. Jack of all
 
 ## 🏆 Highlight Projects
 
-### 🤑 Budget Buddy - AI Financial Assistant
+###  Budget Buddy - AI Financial Assistant
 Led a team of 7 to build an intelligent financial management platform in just 4 days
 - Implemented NLP-powered chatbot with 85%+ query accuracy
 - Created real-time analytics dashboard and automated goal-tracking
 - Delivered fully functional web application under tight deadlines
 
-### 📚 Academic Buddy - Intelligent Learning Assistant
+###  Academic Buddy - Intelligent Learning Assistant
 Developed Python-based AI chatbot for personalized student support
 - Built ML models for academic query handling and progress tracking
 - Collaborated with industry mentors to optimize performance
-
----
-
-## 🎯 Recent Wins
-
-- 🥇 **Top 10 Finalist** - Code for Campus AI/Tech Competition (10/31 teams)
-- 🥈 **Top 5 Finalist** - APJ KTU Startup Cell Idea Competition
-- 🎤 **District-Level Participant** - Elocution, Skit Performance, Local History Writing
 
 ---
 
@@ -74,9 +66,6 @@ I'm always excited to collaborate on innovative AI projects or discuss the lates
 
 ---
 
-## 🌟 What Makes Me Different
-
-I don't just code - I lead, create, and deliver. Whether it's building an AI chatbot in a 4-day sprint or organizing a biomedical technology event, I bring the same energy: **passion, precision, and a drive to make things happen.**
 
 I'm seeking internship opportunities where I can contribute to cutting-edge AI/ML projects while learning from the best in the industry. Let's build something amazing together!
 
