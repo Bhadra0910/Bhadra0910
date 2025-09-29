@@ -2,7 +2,8 @@
 ## Tech Enthusiast | Still Learning | Love Leading Teams
 I build things - AI chatbots, web apps, whatever solves the problem. Jack of all trades, always learning something new
 
-🤖 Building AI chatbots and learning NLP (still figuring out a lot of it!)
+🤖 Building AI chatbots and learning NLP (still figuring out a lot of it!)  
+
 💡 Experimenting with GenAI tools - some projects succeed, some teach me what NOT to do
 📊 Playing around with data visualization and trying to make sense of numbers
 🎯 Leading small teams and discovering that getting people aligned is harder than coding
